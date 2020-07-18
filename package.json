@@ -1,0 +1,15 @@
+{
+  "name": "covid19",
+  "version": "1.0.0",
+  "description": "Get Russia COVID-19 Data to csv",
+  "main": "covid.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "jsdom": "^16.2.2"
+  }
+}

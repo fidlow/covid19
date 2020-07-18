@@ -1,0 +1,2 @@
+node covid.js
+pause
